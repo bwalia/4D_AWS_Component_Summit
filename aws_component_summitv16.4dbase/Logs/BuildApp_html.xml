@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="LogStyleSheet.xsl"?>
+<verifylog operation="Build" name="aws_component_summit" structure="Macintosh HD:Users:balinderwalia:Documents:4DApplications:4D_AWS_Component_Summit:aws_component_summitv16.4dbase:aws_component_summit.4DB" data="" os="Mac OS X (10.12.2)">
+<start_timer time="2017-01-29T12:16:42+00:00"/>
+<stop_timer time="2017-01-29T12:16:43+00:00" success="true" user_canceled="false"/>
+<step title="Building component">
+<step title="Start compilation [2017-01-29T12:16:42]"></step>
+<step title="Start copying files : Macintosh HD:Users:balinderwalia:Documents:4DApplications:4D_AWS_Component_Summit:aws_component_summit_Build:Components:aws_component_summit.4dbase:aws_component_summit.4DC"></step>
+<step title="End copying files : Macintosh HD:Users:balinderwalia:Documents:4DApplications:4D_AWS_Component_Summit:aws_component_summit_Build:Components:aws_component_summit.4dbase:aws_component_summit.4DC"></step>
+<step title="End compilation [2017-01-29T12:16:43]"></step>
+</step>
+</verifylog>
